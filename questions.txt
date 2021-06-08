@@ -1,0 +1,36 @@
+Antennas :;
+4;
+3;
+2;
+1;
+4;
+|
+WiFi Speed (5 GHz):;
+1200 Mbps;
+867 Mbps;
+150 Mbps;
+300 Mbps;
+867 Mbps;
+|
+WiFi Speed (2.4 GHz):;
+1200 Mbps;
+867 Mbps;
+150 Mbps;
+300 Mbps;
+300 Mbps;
+|
+Ethernet Ports (LAN):;
+4;
+3;
+2;
+1;
+4;
+|
+Ethernet Ports (WAN):;
+4;
+3;
+2;
+1;
+1;
+|
+
